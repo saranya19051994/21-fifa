@@ -1,0 +1,4 @@
+xgboost
+streamlit
+pandas
+scikit-learn
